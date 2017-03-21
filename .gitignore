@@ -91,3 +91,5 @@ ENV/
 #data
 .csv
 data/
+.idea/
+.DS_Store
